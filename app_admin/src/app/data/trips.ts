@@ -10,7 +10,7 @@ export const trips =
         "image" : "reef1.jpg",
         "description" : "<p>Gale Reef explore the reef with all the beautiful colurs"
     },
-     {
+    {
         "code": "DAWR210315",
         "name" : "Dawson's Reef",
         "length": "4 nights/ 5 days",

@@ -2,6 +2,7 @@
 /* Travis Waggoner */
 const request = require('request');
 const fs = require('request');
+
 const apiOptions = {
     server: 'http:\\localhost:3000'
 }
